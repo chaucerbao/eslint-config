@@ -5,16 +5,16 @@
   "author": "Alvin Chan <no@email.com>",
   "license": "ISC",
   "main": "./index.js",
-  "peerDependencies": {
-    "eslint": ">=7",
-    "prettier": ">=2",
-    "typescript": ">=3"
-  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.3.0",
     "@typescript-eslint/parser": "^3.3.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
     "eslint-plugin-react": "^7.20.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=7",
+    "prettier": ">=2",
+    "typescript": ">=3"
   }
 }
