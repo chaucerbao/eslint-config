@@ -1,16 +1,16 @@
 {
   "name": "@chaucerbao/eslint-config",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "A preset of recommended ESLint rules for Typescript and React",
   "author": "Alvin Chan <no@email.com>",
   "license": "ISC",
   "main": "./index.js",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.15.2",
-    "@typescript-eslint/parser": "^4.15.2",
-    "eslint-config-prettier": "^8.1.0",
-    "eslint-plugin-prettier": "^3.3.1",
-    "eslint-plugin-react": "^7.22.0"
+    "@typescript-eslint/eslint-plugin": "^4.28.2",
+    "@typescript-eslint/parser": "^4.28.2",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0"
   },
   "peerDependencies": {
     "eslint": ">=7",
